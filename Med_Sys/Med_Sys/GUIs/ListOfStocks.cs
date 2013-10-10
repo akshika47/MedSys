@@ -8,13 +8,16 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Med_Sys
+namespace Med_Sys.GUIs
 {
-    public partial class Form1 : Form
+    public partial class ListOfStocks : Form
     {
-        public Form1()
+        public ListOfStocks()
         {
             InitializeComponent();
+
         }
+
+
     }
 }
